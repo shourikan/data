@@ -1,0 +1,62 @@
+id,parent id,hierarchy,topic,course_name
+1,0,1,Crystal Reports,Crystal Reports 1
+2,1,2,Crystal Reports,Crystal Reports Server
+3,1,2,Crystal Reports,Crystal Reports 2
+4,0,1,Databasevaerktojer,TOAD til Oracle
+5,4,2,Databasevaerktojer,Oracle SQL Developer
+6,5,3,Databasevaerktojer,Datamodellering
+7,0,1,Gymbetaling,SEMINAR OM GYMBETALING OG HR-DATABASEN
+8,0,1,LDV,LDV grundkursus
+9,8,2,LDV,LDV udvidet kursus - med Report Builder
+10,8,2,LDV,LDV og andre datakilder med PowerPivot
+11,8,2,LDV,LDV og PowerBI
+12,8,2,LDV,LDV Webinar
+13,8,2,LDV,LDV Forlob
+14,8,2,LDV,ISOLA
+15,13,3,LDV,LDV udvidet kursus - med Excel
+16,11,3,LDV,LDV og PowerBI udvidet
+17,0,1,Microsoft,PowerBI
+18,0,1,Microsoft,Rapportudvikling med Report Builder
+19,0,1,Microsoft,PULS Seminar
+20,0,1,Microsoft,Navision Stat 7.0
+21,0,1,Microsoft,Introduktion til Relationsdatabaser
+22,0,1,Microsoft,Excel Grundlaeggende
+23,18,2,Microsoft,Reporting Services
+24,17,2,Microsoft,Power BI og lonbudgettering
+25,18,2,Microsoft,Lonbudgettering og lonforhandling med LDV og ISOLA
+26,22,2,Microsoft,Excel Udvidet
+27,23,3,Microsoft,Oprettelse af MS Analysis OLAP KUBER
+28,23,3,Microsoft,Tips og tricks med ReportBuilder/Reporting Services
+29,26,3,Microsoft,Makroer og VBA programmering i Excel
+30,26,3,Microsoft,Excel for okonomimedarbejdere
+31,0,1,Oracle,Programmering med PL/SQL 1 del
+32,0,1,Oracle,Oracle Workshop del 1
+33,31,2,Oracle,Programmering med PL/SQL 2 del
+34,32,2,Oracle,Oracle Workshop del 2
+35,32,2,Oracle,ORACLE Forms 12g
+36,34,3,Oracle,TOAD til Oracle
+37,34,3,Oracle,Tuning af Oracle
+38,34,3,Oracle,Oracle administration og drift
+39,34,3,Oracle,Oracle SQL til foresporgsler
+40,33,3,Oracle,Fra SQL Server til Oracle
+41,39,4,Oracle,Oracle i tempo for de erfarne udviklere
+42,38,4,Oracle,Oracle Server Backup og Recovery
+43,39,4,Oracle,Oracle SQL til Udvikling
+44,38,4,Oracle,Fra Oracle til SQL Server
+45,43,5,Oracle,Oracle SQL Developer
+46,45,6,Oracle,Oracle 19c New Features
+47,0,1,SQL,Introduktion til SQL Server
+48,0,1,SQL,Programmering med PL/SQL 1 del
+49,47,2,SQL,Fra SQL Server til Oracle
+50,47,2,SQL,Fra Oracle til SQL Server
+51,48,2,SQL,Programmering med PL/SQL 2 del
+52,51,3,SQL,Tuning af SQL til Oracle
+53,51,3,SQL,Tuning af SQL til SQL Server
+54,51,3,SQL,Tips og tricks med SQL til rapportering
+55,51,3,SQL,Programmering med TSQL til SQL Server
+56,49,3,SQL,Oracle SQL til Udvikling
+57,54,4,SQL,SQL Server SQL til foresporgsler
+58,56,4,SQL,Oracle SQL Developer
+59,56,4,SQL,Oracle SQL til foresporgsler
+60,57,5,SQL,SQL Server Administration
+61,60,6,SQL,SQL Server Integration Services
