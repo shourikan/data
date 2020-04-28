@@ -1,5 +1,5 @@
 id,parent_id,hierarchy,topic,course_name
-0,0,0,General,Base
+0,-1,0,General,Base
 1,0,1,Crystal Reports,Crystal Reports 1
 2,1,2,Crystal Reports,Crystal Reports Server
 3,1,2,Crystal Reports,Crystal Reports 2
