@@ -1,4 +1,4 @@
 id,course_id,completed,module_name
-0,1,false,Test Module
-1,2,true,Test Module 2
+0,1,true,Test Module
+1,2,false,Test Module 2
 2,51,false,Test Module 3
