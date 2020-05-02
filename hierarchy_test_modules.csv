@@ -1,3 +1,4 @@
-id,course_id,completed,module_name,topic
-0,1,false,Test Module,Crystal Reports
-1,2,true,Test Module 2,Crystal Reports
+id,course_id,completed,module_name
+0,1,false,Test Module
+1,2,true,Test Module 2
+2,51,false,Test Module 3
