@@ -2,3 +2,4 @@ id,course_id,completed,module_name
 0,1,true,Test Module
 1,2,false,Test Module 2
 2,51,false,Test Module 3
+3,32,false,Test Module 4
